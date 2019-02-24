@@ -1,0 +1,5 @@
+﻿  TCPServer_bai2.cpp
+c:\users\khangkhang\documents\visual studio 2015\projects\homework1\tcpserver_bai2\tcpserver_bai2\tcpserver_bai2.cpp(7): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\khangkhang\documents\visual studio 2015\projects\homework1\tcpserver_bai2\tcpserver_bai2\tcpserver_bai2.cpp(7): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  TCPServer_bai2.vcxproj -> C:\Users\Khangkhang\Documents\Visual Studio 2015\Projects\HomeWork1\TCPServer_bai2\Debug\TCPServer_bai2.exe
+  TCPServer_bai2.vcxproj -> C:\Users\Khangkhang\Documents\Visual Studio 2015\Projects\HomeWork1\TCPServer_bai2\Debug\TCPServer_bai2.pdb (Full PDB)
