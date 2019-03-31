@@ -1,8 +1,0 @@
-﻿  clientInfo.cpp
-c:\users\khangkhang\documents\visual studio 2015\projects\homework1\clientinfo\clientinfo\clientinfo.cpp(11): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
-  c:\users\khangkhang\documents\visual studio 2015\projects\homework1\clientinfo\clientinfo\clientinfo.cpp(11): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
-c:\users\khangkhang\documents\visual studio 2015\projects\homework1\clientinfo\clientinfo\clientinfo.cpp(63): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
-c:\users\khangkhang\documents\visual studio 2015\projects\homework1\clientinfo\clientinfo\clientinfo.cpp(67): warning C4474: 'printf' : too many arguments passed for format string
-  c:\users\khangkhang\documents\visual studio 2015\projects\homework1\clientinfo\clientinfo\clientinfo.cpp(67): note: placeholders and their parameters expect 2 variadic arguments, but 3 were provided
-  clientInfo.vcxproj -> C:\Users\Khangkhang\Documents\Visual Studio 2015\Projects\HomeWork1\clientInfo\Debug\clientInfo.exe
-  clientInfo.vcxproj -> C:\Users\Khangkhang\Documents\Visual Studio 2015\Projects\HomeWork1\clientInfo\Debug\clientInfo.pdb (Full PDB)

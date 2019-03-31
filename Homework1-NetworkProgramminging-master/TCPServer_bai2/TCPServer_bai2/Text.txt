@@ -1,2 +1,0 @@
-hello
-send from server with love <3
